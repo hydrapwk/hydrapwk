@@ -12,13 +12,15 @@ CAREFULLY.
 
 ### Artwork
 
-#### WRONG USE
-
+> [!WARNING]
 > DO NOT USE OR REPLACE COLORS OTHER THAN THE PRIMARY COLOR.
-> WRONG USE EXAMPLES
+> 
+> - WRONG USE EXAMPLES
 ![WRONG USE EXAMPLE](/assets/example/wrong-use-example.png)
 
 
-> secondary colors in HEX.
+> [!NOTE]
+> PRIMARY AND SECONDARY COLORS.
+> 
+> - secondary colors in HEX.
 ![Secondary Colors](/assets/element-1.png)
-
