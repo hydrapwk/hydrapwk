@@ -6,10 +6,10 @@
 
 you can support us, like server donations for our infrastructure or financial!.
 
-patreon: https://www.patreon.com/c/BlackTrack
+patreon < https://www.patreon.com/c/BlackTrack >
 
-Opencollective: https://opencollective.com/hydrapwkproject
+Opencollective < https://opencollective.com/hydrapwkproject >
 
 
+<img src="/graphics/hydrapwk-emblem-nocircle.png" style=" width: 60%;">
 
-![HydraPWK emblem LICENSE CC BY-NC-ND 4.0](/graphics/hydrapwk-emblem-nocircle.png)
