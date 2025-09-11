@@ -6,6 +6,7 @@
 
 # Support & reources
 
+ - Pages: https://hydrapwk.github.io/
  - Issues https://github.com/hydrapwk/hydrapwk/issues
  - Doc https://hydrapwk.github.io/doc
  - Tools tracking https://hydrapwk.github.io/doc/tools-tracker
