@@ -13,7 +13,8 @@
  - Tools tracking https://hydrapwk.github.io/doc/tools-tracker
  - LICENSE https://hydrapwk.github.io/doc/hydrapwk-software-policy
 
-
+- DISTROWATCH https://distrowatch.com/table.php?distribution=hydrapwk
+  
 ```
 Terms and Policies
 
