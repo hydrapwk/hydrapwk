@@ -1,3 +1,6 @@
+<img src="/graphics/hydrapwk-logo-emblem-2.0.png" style=" width: 100%;">
+
+
 # HYDRAPWK GNU/Linux .
 
 [![Download HydraPWK GNU/Linux](https://img.shields.io/sourceforge/dm/hydrapwk-gnu-linux.svg)](https://sourceforge.net/projects/hydrapwk-gnu-linux/files/latest/download)
@@ -29,5 +32,4 @@ The developers and contributors are not responsible for any damage,
 loss, or misuse arising from the use of this software. 
 All responsibility lies with the end user.
 ```
-<img src="/graphics/hydrapwk-emblem-nocircle.png" style=" width: 60%;">
 
