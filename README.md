@@ -7,6 +7,7 @@
 
 # Support & reources
 
+ Purplizer: https://gitlab.com/hydrapwk/hydrapwk-purplizer/documentations/-/blob/main/README.md?ref_type=heads
  - Pages: https://hydrapwk.github.io/
  - Issues https://github.com/hydrapwk/hydrapwk/issues
  - Doc https://hydrapwk.github.io/doc
