@@ -5,9 +5,6 @@
 
 [![Download HydraPWK GNU/Linux](https://img.shields.io/sourceforge/dm/hydrapwk-gnu-linux.svg)](https://sourceforge.net/projects/hydrapwk-gnu-linux/files/latest/download)
 
-> [!WARNING]
-> Please update your HydraPWK Machine to version [HydraPWK Yellowdog release](https://hydrapwk.github.io/blog/hydrapwk-release-yellowdog) or [Latest HydraPWK yellowdog snapshot hydrapwk-2025.02.250817233-yellowdog-T1](https://hydrapwk.github.io/blog/hydrapwk-new-snapshot-and-new-tools)
-
 # Support & reources
 
  - Pages: https://hydrapwk.github.io/
