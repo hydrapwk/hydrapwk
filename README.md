@@ -1,5 +1,8 @@
-<img src="/graphics/hydrapwk-logo-emblem-2.0.png" style=" width: 100%;">
+<div align="center">
 
+<img src="graphics/hydrapwk-emblem.png" style=" width: 50%;">
+
+</div>
 
 # HYDRAPWK GNU/Linux .
 
