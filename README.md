@@ -1,4 +1,4 @@
-<img src="/graphics/hydrapwk-emblem-circle.png" style=" width: 100%;">
+<img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
 
 
 # HYDRAPWK GNU/Linux .
