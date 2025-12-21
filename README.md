@@ -1,7 +1,9 @@
-<img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
 
 > [!IMPORTANT]
 > For HydraPWK Bug tracker, etc Has been moved to [@NetHydra](https://github.com/nethydra)
+
+
+<img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
 
 # HYDRAPWK GNU/Linux .
 
