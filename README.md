@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]
-> All HydraPWK source code, Bug tracker, etc Has been moved to [@NetHydra](https://github.com/nethydra)
+> All HydraPWK source code, Bug tracker, etc Has been moved to [@NetHydra](https://github.com/nethydra) Please check our [annoucment](https://github.com/hydrapwk/hydrapwk/issues/32)
 
 
 <img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
